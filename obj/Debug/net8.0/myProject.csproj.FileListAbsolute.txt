@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\bin\Debug\net8.0\myProject.exe
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\bin\Debug\net8.0\myProject.deps.json
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\bin\Debug\net8.0\myProject.runtimeconfig.json
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\bin\Debug\net8.0\myProject.dll
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\bin\Debug\net8.0\myProject.pdb
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\obj\Debug\net8.0\myProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\obj\Debug\net8.0\myProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\obj\Debug\net8.0\myProject.AssemblyInfo.cs
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\obj\Debug\net8.0\myProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\obj\Debug\net8.0\myProject.dll
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\obj\Debug\net8.0\refint\myProject.dll
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\obj\Debug\net8.0\myProject.pdb
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\obj\Debug\net8.0\myProject.genruntimeconfig.cache
+C:\Users\user\Desktop\조흥재\hello모음\csharp\myProject\obj\Debug\net8.0\ref\myProject.dll
